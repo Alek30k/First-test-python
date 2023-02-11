@@ -17,3 +17,5 @@ diccionario = {
     "hobby": "Programar"
     
 }
+
+print(diccionario['edad'])
