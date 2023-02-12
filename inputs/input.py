@@ -2,4 +2,4 @@
 
 nombre = input("Nombre: ")
 
-print(f:el nombre es: {nombre}')
+print(f'el nombre es: {nombre}')
